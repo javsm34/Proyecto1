@@ -6,7 +6,11 @@
     "slug": "AwesomeProyecto",
     "version": "1.0.0",
     "assetBundlePatterns": [
-      "**/*"
-    ]
+      "assets/images/*"
+    ],
+    "android":{
+      "package": "com.javiercarrillo.utp",
+      "versionCode": 1
+    }
   }
 }
